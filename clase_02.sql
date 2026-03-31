@@ -23,7 +23,7 @@ datos del servidor.
 name es el nombre lógico del archivo
 physical_name es la ruta real del disco
 where database_id = DB_ID('Clase_demo') filtra los resultados
-La función DB_ID traduce el nombre de la base de datos a un
+La función DB_ID traduce el nombre de la base de datos a un número identificatorio dentro de la base.
 */
 
 use Clase_demo;
